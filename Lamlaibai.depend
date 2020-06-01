@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591031031 source:e:\code\c++\baitaphdt\lamlaibai\monhoc.cpp
+	"Monhoc.h"
+
+1591031059 e:\code\c++\baitaphdt\lamlaibai\include\monhoc.h
+	<string>
+	<iostream>
+
